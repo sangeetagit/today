@@ -1,12 +1,4 @@
-select hhdjsh from report where savedate ='261020'
-
-select Count(*) from report where savedate ='261020'
-
-select Count(distinct(BoxNo)) from report where savedate ='261020'
-
-select distinct(BoxNo) from report where savedate ='261020' order by BoxNo desc
-
-select top 1(BoxNo) from report where savedate ='261020' order by BoxNo desc
+New Branch
 
 
 
